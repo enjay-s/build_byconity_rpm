@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'This file should be replace by a real executable binary file.'
